@@ -80,6 +80,7 @@
 - [剖析代理模式](https://github.com/yjgbg/notebook/blob/master/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
 - [G1收集器简介](https://github.com/yjgbg/notebook/blob/master/G1收集器简介.md)
 - [代数数据类型的size和域模型(翻译)](https://github.com/yjgbg/notebook/blob/master/%E4%BB%A3%E6%95%B0%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84Size%E5%92%8C%E5%9F%9F%E6%A8%A1%E5%9E%8B.md)
+- [红黑树解析](https://github.com/yjgbg/notebook/blob/master/red-black.md)
 
 ## 技能清单
 
