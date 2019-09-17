@@ -1,5 +1,7 @@
 ## 代数数据类型的Size和域模型
 
+[原文地址:https://fsharpforfunandprofit.com/posts/type-size-and-design/](https://fsharpforfunandprofit.com/posts/type-size-and-design/)
+
 在这篇文章中，我们将会学习到如何计算类型的"Size"，或者说是类型的基数。并且了解到这些知识如何帮助我们做出设计选型。
 
 #### 起步
