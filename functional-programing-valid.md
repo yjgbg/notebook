@@ -329,15 +329,6 @@ final var entity1 = new SampleEntity( 0L,"null", Gender.FEMALE,"1234567891011","
 
 ### fun-valid 指北
 
-#### 安装Lombok-EAP插件
-
-[下载链接](https://github.com/mplushnikov/lombok-intellij-plugin/files/5505383/lombok-plugin-0.34-EAP.zip)
-
-正式版本Lombok插件暂时不支持ExtensionMethod，需要使用EAP版(即上面链接里的版本)
-
-#### 配置好公司的maven仓库
-
-此处不再赘述,参见[Maven 和 Hypers Nexus 仓库](https://tech-blog.hypers.cc/article/15)，注意需要配置SNAPSHOT仓库
 
 #### maven引入依赖
 
