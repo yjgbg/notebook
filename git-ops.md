@@ -30,7 +30,7 @@
 
 ### 于是最终流程如下：
 
- ![Alt text](file:///Users/weicl/Library/Application%20Support/marktext/images/945267411faf7ae40f6b49b68ea97cd8e0b2c8d3.png) 
+ ![Alt text](https://github.com/yjgbg/notebook/blob/master/image2022-1-12_16-35-45.png?raw=true) 
 
 # 理论部分：
 
